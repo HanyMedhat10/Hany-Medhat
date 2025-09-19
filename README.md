@@ -18,9 +18,33 @@ A passionate ML & CV enthusiast building practical AI tools, automation flows, a
 ---
 
 ## 🛠️ Tech & Tools
-- Languages: Python, SQL, Bash
-- Frameworks & Libraries: scikit-learn, TensorFlow / PyTorch, OpenCV, pandas
-- Dev & Infra: GitHub Actions, Docker, REST APIs
+
+**Languages:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash" />
+  </a>
+</p>
+- SQL
+
+**Frameworks & Libraries:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" width="40" height="40" />
+  </a>
+</p>
+
+**Dev & Infra:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,docker" />
+  </a>
+</p>
+- REST APIs
+
 - Data & ML ops: Jupyter, ML experimentation, model evaluation & deployment
 
 (If you'd like, I can add logos/badges for each tool.)
