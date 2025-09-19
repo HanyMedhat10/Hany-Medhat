@@ -38,6 +38,7 @@ A passionate ML & CV enthusiast building practical AI tools, automation flows, a
   </a>
 </p>
 - RestAPI
+
 - Data & ML ops: Jupyter, ML experimentation, model evaluation & deployment
 
 
@@ -55,6 +56,7 @@ Tip: Pin the repos above on your GitHub profile for a neat showcase.
 
 ## 📊 GitHub Stats
 ![Hany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanyMedhat10&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanyMedhat10&layout=compact&theme=radical)
 
 ---
