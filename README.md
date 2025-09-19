@@ -18,10 +18,23 @@ A passionate ML & CV enthusiast building practical AI tools, automation flows, a
 ---
 
 ## 🛠️ Tech & Tools
-- Languages: Python, SQL, Bash
-- Frameworks & Libraries: scikit-learn, TensorFlow / PyTorch, OpenCV, pandas
-- Dev & Infra: GitHub Actions, Docker, REST APIs
-- Data & ML ops: Jupyter, ML experimentation, model evaluation & deployment
+
+- **Languages:** Python, Bash, Go, PHP, Dart, SQL
+- **Frameworks & Libraries:** scikit-learn, TensorFlow, PyTorch, OpenCV, FastAPI, NestJS, Express, Flutter, pandas, Gin
+- **Dev & Infra:** GitHub Actions, Docker, REST APIs
+- **Data & ML ops:** Jupyter, ML experimentation, model evaluation & deployment
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,go,php,dart,sklearn,tensorflow,pytorch,opencv,fastapi,nestjs,express,flutter,githubactions,docker" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" width="40" height="40" />
+  </a>
+  <a href="https://gin-gonic.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" alt="Gin" width="40" height="40" />
+  </a>
+</p>
 
 (If you'd like, I can add logos/badges for each tool.)
 
