@@ -19,14 +19,7 @@ A passionate ML & CV enthusiast building practical AI tools, automation flows, a
 
 ## 🛠️ Tech & Tools
 
-- **Languages:** Python, Bash, Go, PHP, Dart, SQL
-- **Frameworks & Libraries:** scikit-learn, TensorFlow, PyTorch, OpenCV, FastAPI, NestJS, Express, Flutter, pandas, Gin
-- **Dev & Infra:** GitHub Actions, Docker, REST APIs
-- **Data & ML ops:** Jupyter, ML experimentation, model evaluation & deployment
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,go,php,dart,sklearn,tensorflow,pytorch,opencv,fastapi,nestjs,express,flutter,githubactions,docker" />
 
 - **Languages:** Python, Bash, Go, PHP, Dart, SQL
 - **Frameworks & Libraries:** scikit-learn, TensorFlow, PyTorch, OpenCV, FastAPI, NestJS, Express, Flutter, pandas, Gin
