@@ -45,8 +45,8 @@ Tip: Pin the repos above on your GitHub profile for a neat showcase.
 
 ## 📫 Connect
 - GitHub: https://github.com/HanyMedhat10
-- Email: hello [hany.medhat24@gmail.com] (hany.medhat24@gmail.com)
-- LinkedIn / Twitter: [Hany Medhat] ((https://www.linkedin.com/in/hany-medhat-489527366)
+- Email:hany.medhat24@gmail.com
+- LinkedIn / Twitter: https://www.linkedin.com/in/hany-medhat-489527366
 
 ---
 
