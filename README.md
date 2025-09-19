@@ -32,7 +32,6 @@ A passionate ML & CV enthusiast building practical AI tools, automation flows, a
 - [YouTube-comments-Segment-analysis](https://github.com/HanyMedhat10/YouTube-comments-Segment-analysis) — NLP / sentiment & topic analysis over YouTube comments
 - [Spam-Emails-Classify-ML](https://github.com/HanyMedhat10/Spam-Emails-Classify-ML) — Email classification with feature engineering & model evaluation
 - [CV-Analysis-AI](https://github.com/HanyMedhat10/CV-Analysis-AI) — Computer vision experiments and pipelines
-- [Army-timeline](https://github.com/HanyMedhat10/Army-timeline) — Timeline/visualization project
 
 Tip: Pin the repos above on your GitHub profile for a neat showcase.
 
@@ -46,8 +45,8 @@ Tip: Pin the repos above on your GitHub profile for a neat showcase.
 
 ## 📫 Connect
 - GitHub: https://github.com/HanyMedhat10
-- Email: hello [at] your-domain.com (replace with your real email)
-- LinkedIn / Twitter: add links here (optional)
+- Email: hello [hany.medhat24@gmail.com] (hany.medhat24@gmail.com)
+- LinkedIn / Twitter: [Hany Medhat] ((https://www.linkedin.com/in/hany-medhat-489527366)
 
 ---
 
