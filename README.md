@@ -31,7 +31,7 @@ A passionate ML & CV enthusiast building practical AI tools, automation flows, a
 - [workflow](https://github.com/HanyMedhat10/workflow) — GitHub Actions + CI/CD experiments and examples
 - [YouTube-comments-Segment-analysis](https://github.com/HanyMedhat10/YouTube-comments-Segment-analysis) — NLP / sentiment & topic analysis over YouTube comments
 - [Spam-Emails-Classify-ML](https://github.com/HanyMedhat10/Spam-Emails-Classify-ML) — Email classification with feature engineering & model evaluation
-- [CV-Analysis-AI](https://github.com/HanyMedhat10/CV-Analysis-AI) — Computer vision experiments and pipelines
+- [AI Resume Analyzer]((https://github.com/HanyMedhat10/AI-Resume-Analyzer.git)) — This project is an AI-powered resume analyzer that helps you evaluate how well a candidate's resume aligns with a job description. It provides a similarity score, a detailed analysis report, and suggestions for improvement.
 
 Tip: Pin the repos above on your GitHub profile for a neat showcase.
 
