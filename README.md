@@ -1,80 +1,231 @@
 # Hi, I'm Hany Medhat 👋
 
-A passionate ML & CV enthusiast building practical AI tools, automation flows, and useful developer utilities. I love turning data into meaningful features, automating repetitive tasks, and shipping projects that make life easier.
+<p align="center">
+  <a href="https://github.com/HanyMedhat10">
+    <img src="https://komarev.com/ghpvc/?username=HanyMedhat10&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/HanyMedhat10?tab=followers">
+    <img src="https://img.shields.io/github/followers/HanyMedhat10?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers"/>
+  </a>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/HanyMedhat10?label=Follow&style=social)](https://github.com/HanyMedhat10)
-[![Top Langs](https://img.shields.io/github/languages/top/HanyMedhat10/workflow?color=blueviolet&style=for-the-badge)](https://github.com/HanyMedhat10)
-[![Profile Views](https://komarev.com/ghpvc/?username=HanyMedhat10&color=0e75b6&style=for-the-badge)](https://github.com/HanyMedhat10)
+A passionate ML & CV enthusiast building practical AI tools, automation flows, and useful developer utilities. I love turning data into meaningful features, automating repetitive tasks, and shipping projects that make life easier.
 
 ---
 
-<!-- Short intro / hero -->
-## 👨‍💻 About me
-- 🔭 I’m currently building and experimenting with machine learning pipelines and computer vision projects.
-- 🌱 I’m learning productionizing ML models, reliable CI/CD for data projects, and distributed model inference.
-- 💬 Ask me about Python, ML, NLP, and GitHub Actions.
+### 👨‍💻 About Me
+
+- 🔭 I’m currently building and experimenting with **machine learning pipelines** and **computer vision projects**.
+- 🌱 I’m learning productionizing ML models, reliable **CI/CD for data projects**, and **distributed model inference**.
+- 💬 Ask me about **Python, ML, NLP, and GitHub Actions**.
 - ⚡ Fun fact: I enjoy converting messy data into clean, useful features.
 
 ---
 
-## 🛠️ Tech & Tools
+### 🛠️ Tech Stack
 
+Here are some of the technologies I work with:
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+        <a href="#-tech-stack">
+            <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+        </a>
+        <br>Dart
+    </td>
+     <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
+      </a>
+      <br>scikit-learn
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
+    </td>
+     <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      </a>
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-- **Languages:** Python, Bash, Go, PHP, Dart, SQL
-- **Frameworks & Libraries:** scikit-learn, TensorFlow, PyTorch, OpenCV, FastAPI, NestJS, Express, Flutter, pandas, Gin
-- **Dev & Infra:** GitHub Actions, Docker, REST APIs
-- **Data & ML ops:** Jupyter, ML experimentation, model evaluation & deployment
+---
+
+### 🔭 Top Projects
+
+Here are some of my top projects. You can find more on my repositories page.
+
+<details>
+  <summary><strong>AI Resume Analyzer</strong></summary>
+  <br>
+  <table>
+    <tr>
+      <td>
+        This project is an AI-powered resume analyzer that helps you evaluate how well a candidate's resume aligns with a job description. It provides a similarity score, a detailed analysis report, and suggestions for improvement.
+        <br><br>
+        <strong>Technologies Used:</strong> Python, NLP, scikit-learn
+      </td>
+    </tr>
+  </table>
+  <p align="right">
+    <a href="https://github.com/HanyMedhat10/AI-Resume-Analyzer.git">View Repository</a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Spam Emails Classification</strong></summary>
+  <br>
+  <table>
+    <tr>
+      <td>
+        An email classification project that uses machine learning to distinguish spam from non-spam emails. This project involves feature engineering, model training, and evaluation to achieve high accuracy.
+        <br><br>
+        <strong>Technologies Used:</strong> Python, scikit-learn, pandas
+      </td>
+    </tr>
+  </table>
+  <p align="right">
+    <a href="https://github.com/HanyMedhat10/Spam-Emails-Classify-ML">View Repository</a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>YouTube Comments Segment Analysis</strong></summary>
+  <br>
+  <table>
+    <tr>
+      <td>
+        This project performs NLP-based sentiment and topic analysis on YouTube comments. It helps content creators understand audience feedback by identifying key themes and sentiments in the comments section.
+        <br><br>
+        <strong>Technologies Used:</strong> Python, NLP, pandas
+      </td>
+    </tr>
+  </table>
+  <p align="right">
+    <a href="https://github.com/HanyMedhat10/YouTube-comments-Segment-analysis">View Repository</a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Workflow Automation</strong></summary>
+  <br>
+  <table>
+    <tr>
+      <td>
+        A collection of GitHub Actions and CI/CD experiments and examples. This repository is a great resource for anyone looking to automate their development workflows.
+        <br><br>
+        <strong>Technologies Used:</strong> GitHub Actions, CI/CD
+      </td>
+    </tr>
+  </table>
+  <p align="right">
+    <a href="https://github.com/HanyMedhat10/workflow">View Repository</a>
+  </p>
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+![Hany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanyMedhat10&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanyMedhat10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Let's Connect!
+
+You can find me on the following platforms:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,go,php,dart,sklearn,tensorflow,pytorch,opencv,fastapi,nestjs,express,flutter,githubactions,docker" />
+  <a href="https://github.com/HanyMedhat10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" width="40" height="40" />
+  <a href="mailto:hany.medhat24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://gin-gonic.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" alt="Gin" width="40" height="40" />
+  <a href="https://www.linkedin.com/in/hany-medhat-489527366" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-- RestAPI
-
-- Data & ML ops: Jupyter, ML experimentation, model evaluation & deployment
-
-
----
-
-## 🔭 Selected projects
-- [workflow](https://github.com/HanyMedhat10/workflow) — GitHub Actions + CI/CD experiments and examples
-- [YouTube-comments-Segment-analysis](https://github.com/HanyMedhat10/YouTube-comments-Segment-analysis) — NLP / sentiment & topic analysis over YouTube comments
-- [Spam-Emails-Classify-ML](https://github.com/HanyMedhat10/Spam-Emails-Classify-ML) — Email classification with feature engineering & model evaluation
-- [AI Resume Analyzer](https://github.com/HanyMedhat10/AI-Resume-Analyzer.git) — This project is an AI-powered resume analyzer that helps you evaluate how well a candidate's resume aligns with a job description. It provides a similarity score, a detailed analysis report, and suggestions for improvement.
-
-Tip: Pin the repos above on your GitHub profile for a neat showcase.
-
----
-
-## 📊 GitHub Stats
-![Hany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanyMedhat10&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanyMedhat10&layout=compact&theme=radical)
-
----
-
-## 📫 Connect
-- GitHub: https://github.com/HanyMedhat10
-- Email:hany.medhat24@gmail.com
-- LinkedIn / Twitter: https://www.linkedin.com/in/hany-medhat-489527366
-
----
-
-## ✨ Want this README customized?
-I can:
-- Create a polished SVG gradient header or animated GIF for the top.
-- Add social icons and contact buttons.
-- Generate badges for skills and CI status.
-- Translate it to another language or shorten/expand sections.
-
-If you want any of the above, tell me which style (minimal / colorful / image-heavy) and which details to include (real email, LinkedIn, blog, or extra repos).
-
-Thanks for stopping by — let's build something great! 🚀
