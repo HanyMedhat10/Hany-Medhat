@@ -141,7 +141,6 @@ Here are some of the technologies I work with:
       </a>
       <br>Docker
     </td>
-  </tr>
    <td align="center" width="96">
       <a href="#-tech-stack">
         <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="Typescript" />
