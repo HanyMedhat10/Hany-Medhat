@@ -142,6 +142,19 @@ Here are some of the technologies I work with:
       <br>Docker
     </td>
   </tr>
+   <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Type Script
+    </td>
+   <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
 </table>
 
 ---
