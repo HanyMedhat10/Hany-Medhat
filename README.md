@@ -34,6 +34,13 @@ Here are some of the technologies I work with:
       </a>
       <br>Python
     </td>
+    </td>
+    <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+      </a>
+      <br>Rust
+    </td>
     <td align="center" width="96">
       <a href="#-tech-stack">
         <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
@@ -60,12 +67,18 @@ Here are some of the technologies I work with:
     </td>
      <td align="center" width="96">
       <a href="#-tech-stack">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MYSQL" />
       </a>
-      <br>SQL
+      <br>MYSQL
     </td>
   </tr>
   <tr>
+     <td align="center" width="96">
+      <a href="#-tech-stack">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
     <td align="center" width="96">
       <a href="#-tech-stack">
         <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
